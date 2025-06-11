@@ -1,3 +1,9 @@
 *.out
 *.exe
 *.bin
+
+**/*.o
+*.obj
+*.a
+
+Graph/BFS
